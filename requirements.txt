@@ -1,3 +1,15 @@
 androguard~=4.1.3
-
 pillow~=11.3.0
+lxml
+pygments
+click
+colorama
+dataset
+frida
+ipython
+loguru
+matplotlib
+mutf8
+networkx
+pydot
+pyyaml
